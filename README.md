@@ -11,19 +11,19 @@ I build scalable backend systems, secure APIs, and dynamic, interactive user int
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="React" />
+      <img src="https://jsdelivr.net" width="48" height="48" alt="React" />
       <br />React
     </td>
     <td align="center" width="96">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="JavaScript" />
+      <img src="https://jsdelivr.net" width="48" height="48" alt="JavaScript" />
       <br />JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="HTML5" />
+      <img src="https://jsdelivr.net" width="48" height="48" alt="HTML5" />
       <br />HTML5
     </td>
     <td align="center" width="96">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="CSS3" />
+      <img src="https://jsdelivr.net" width="48" height="48" alt="CSS3" />
       <br />CSS3
     </td>
   </tr>
@@ -33,19 +33,19 @@ I build scalable backend systems, secure APIs, and dynamic, interactive user int
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="Python" />
+      <img src="https://jsdelivr.net" width="48" height="48" alt="Python" />
       <br />Python
     </td>
     <td align="center" width="96">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="Django" />
+      <img src="https://jsdelivr.net" width="48" height="48" alt="Django" />
       <br />Django
     </td>
     <td align="center" width="96">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="PostgreSQL" />
+      <img src="https://jsdelivr.net" width="48" height="48" alt="PostgreSQL" />
       <br />PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="MySQL" />
+      <img src="https://jsdelivr.net" width="48" height="48" alt="MySQL" />
       <br />MySQL
     </td>
   </tr>
@@ -55,15 +55,15 @@ I build scalable backend systems, secure APIs, and dynamic, interactive user int
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="Git" />
+      <img src="https://jsdelivr.net" width="48" height="48" alt="Git" />
       <br />Git
     </td>
     <td align="center" width="96">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="Postman" />
+      <img src="https://jsdelivr.net" width="48" height="48" alt="Postman" />
       <br />Postman
     </td>
     <td align="center" width="96">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="VS Code" />
+      <img src="https://jsdelivr.net" width="48" height="48" alt="VS Code" />
       <br />VS Code
     </td>
   </tr>
@@ -80,7 +80,7 @@ I build scalable backend systems, secure APIs, and dynamic, interactive user int
 
 ### 📫 Connect with Me
 
-*   💼 **LinkedIn:** [Fathimat Nashva T](https://www.linkedin.com/in/fathimath-nashva-705304375)
+*   💼 **LinkedIn:** [Fathimat Nashva T](https://linkedin.com)
 *   📧 **Email:** nashva7022@gmail.com
 
 ---
